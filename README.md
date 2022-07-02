@@ -2,10 +2,10 @@ CryptoDoge's gamefi-MetaDoge has been launched now, it is a blockchain gamefi an
 
 you can download game client from release
 
-![Alt text](https://gamefi.cryptodoge.cc/assets/img/bg1.jpg)
-![Alt text](https://gamefi.cryptodoge.cc/assets/img/bg2.jpg)
-![Alt text](https://gamefi.cryptodoge.cc/assets/img/bg3.jpg)
-![Alt text](https://gamefi.cryptodoge.cc/assets/img/bg4.jpg)
+![Alt text](https://cryptodoge.cc/assets/img/bg1.jpg)
+![Alt text](https://cryptodoge.cc/assets/img/bg2.jpg)
+![Alt text](https://cryptodoge.cc/assets/img/bg3.jpg)
+![Alt text](https://cryptodoge.cc/assets/img/bg4.jpg)
 
 ## Community
 
